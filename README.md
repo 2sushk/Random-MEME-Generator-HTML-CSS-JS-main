@@ -1,2 +1,2 @@
-Random MEME Generator | HTML, CSS & JS 
+Random MEME Generator HTML, CSS & JS  and VS Code
 
